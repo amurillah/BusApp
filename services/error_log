@@ -1,0 +1,2 @@
+[27-Mar-2015 11:28:20 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/hkinfoway/public_html/busapp/services/getrouteinfo.php on line 3
+[27-Mar-2015 11:31:00 UTC] PHP Fatal error:  Class 'DataBase' not found in /home/hkinfoway/public_html/busapp/services/getrouteinfo.php on line 3
